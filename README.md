@@ -1,5 +1,3 @@
-# litlab
-
-documents related to work in the lit lab
+Assorted documents related to projects in the Lab.
 
 fredner@stanford.edu
